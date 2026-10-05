@@ -1,0 +1,427 @@
+[
+  {
+    "dutch": "bedrag",
+    "english": "amount",
+    "emoji": "💶"
+  },
+  {
+    "dutch": "telefoonverbinding",
+    "english": "telephone connection",
+    "emoji": "📞"
+  },
+  {
+    "dutch": "beltegoed",
+    "english": "prepaid credit",
+    "emoji": "📱"
+  },
+  {
+    "dutch": "kiezen",
+    "english": "choose",
+    "emoji": "👉"
+  },
+  {
+    "dutch": "bedrijf",
+    "english": "company",
+    "emoji": "🏢"
+  },
+  {
+    "dutch": "gevaarlijk",
+    "english": "dangerous",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "oplossen",
+    "english": "solve",
+    "emoji": "🧩"
+  },
+  {
+    "dutch": "aansluitingen",
+    "english": "connections",
+    "emoji": "🔌"
+  },
+  {
+    "dutch": "leverancier",
+    "english": "supplier",
+    "emoji": "🚚"
+  },
+  {
+    "dutch": "aanmelding",
+    "english": "registration",
+    "emoji": "📝"
+  },
+  {
+    "dutch": "levering",
+    "english": "delivery",
+    "emoji": "📦"
+  },
+  {
+    "dutch": "zekerheid",
+    "english": "certainty; security",
+    "emoji": "🛡️"
+  },
+  {
+    "dutch": "voorwaarden",
+    "english": "conditions; terms",
+    "emoji": "📋"
+  },
+  {
+    "dutch": "looptijd",
+    "english": "duration; term",
+    "emoji": "⏳"
+  },
+  {
+    "dutch": "overstappen",
+    "english": "switch (e.g. providers)",
+    "emoji": "🔄"
+  },
+  {
+    "dutch": "vergelijken",
+    "english": "compare",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "contractduur",
+    "english": "contract duration",
+    "emoji": "📄"
+  },
+  {
+    "dutch": "opzegtermijn",
+    "english": "notice period",
+    "emoji": "📅"
+  },
+  {
+    "dutch": "boetes",
+    "english": "fines",
+    "emoji": "💸"
+  },
+  {
+    "dutch": "opnemen",
+    "english": "record; take up; withdraw (money)",
+    "emoji": "🎙️"
+  },
+  {
+    "dutch": "doorgeven",
+    "english": "pass on; communicate",
+    "emoji": "📨"
+  },
+  {
+    "dutch": "onderhoud",
+    "english": "maintenance",
+    "emoji": "🛠️"
+  },
+  {
+    "dutch": "woonomgeving",
+    "english": "living environment; neighbourhood",
+    "emoji": "🏘️"
+  },
+  {
+    "dutch": "regels",
+    "english": "rules",
+    "emoji": "📏"
+  },
+  {
+    "dutch": "energiebedrijf",
+    "english": "energy company",
+    "emoji": "⚡"
+  },
+  {
+    "dutch": "energierekening",
+    "english": "energy bill",
+    "emoji": "🧾"
+  },
+  {
+    "dutch": "termijnbedrag",
+    "english": "instalment amount",
+    "emoji": "💶"
+  },
+  {
+    "dutch": "weinig",
+    "english": "little; few",
+    "emoji": "🤏"
+  },
+  {
+    "dutch": "waarschuwing",
+    "english": "warning",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "afgesloten",
+    "english": "closed; disconnected",
+    "emoji": "🔒"
+  },
+  {
+    "dutch": "zuinig",
+    "english": "economical; frugal",
+    "emoji": "💡"
+  },
+  {
+    "dutch": "voordelen",
+    "english": "advantages; benefits",
+    "emoji": "➕"
+  },
+  {
+    "dutch": "milieu",
+    "english": "environment",
+    "emoji": "🌍"
+  },
+  {
+    "dutch": "apparaten",
+    "english": "devices; appliances",
+    "emoji": "🔌"
+  },
+  {
+    "dutch": "duurzame",
+    "english": "sustainable",
+    "emoji": "🌱"
+  },
+  {
+    "dutch": "huurwoning",
+    "english": "rental home",
+    "emoji": "🏠"
+  },
+  {
+    "dutch": "inschrijven",
+    "english": "register; enrol",
+    "emoji": "📝"
+  },
+  {
+    "dutch": "verhuren",
+    "english": "rent out",
+    "emoji": "🔑"
+  },
+  {
+    "dutch": "afhankelijk van",
+    "english": "dependent on",
+    "emoji": "🔗"
+  },
+  {
+    "dutch": "leeftijd",
+    "english": "age",
+    "emoji": "🎂"
+  },
+  {
+    "dutch": "beschikbare",
+    "english": "available",
+    "emoji": "✅"
+  },
+  {
+    "dutch": "aanvragen",
+    "english": "request; apply for",
+    "emoji": "📨"
+  },
+  {
+    "dutch": "scheiden",
+    "english": "separate; divorce",
+    "emoji": "↔️"
+  },
+  {
+    "dutch": "huisbaas",
+    "english": "landlord",
+    "emoji": "🏠"
+  },
+  {
+    "dutch": "rechten en plichten",
+    "english": "rights and obligations",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "huurder",
+    "english": "tenant",
+    "emoji": "🏡"
+  },
+  {
+    "dutch": "verhuurder",
+    "english": "landlord; lessor",
+    "emoji": "🔑"
+  },
+  {
+    "dutch": "vervangen",
+    "english": "replace",
+    "emoji": "🔄"
+  },
+  {
+    "dutch": "huurtoeslag",
+    "english": "rent allowance",
+    "emoji": "🏠"
+  },
+  {
+    "dutch": "Belastingdienst",
+    "english": "Dutch Tax Administration",
+    "emoji": "🏛️"
+  },
+  {
+    "dutch": "hypotheek",
+    "english": "mortgage",
+    "emoji": "🏦"
+  },
+  {
+    "dutch": "verschillend",
+    "english": "different",
+    "emoji": "🔀"
+  },
+  {
+    "dutch": "renteaftrek",
+    "english": "interest deduction",
+    "emoji": "➖"
+  },
+  {
+    "dutch": "regelen",
+    "english": "arrange",
+    "emoji": "🗓️"
+  },
+  {
+    "dutch": "tekenen",
+    "english": "sign; draw",
+    "emoji": "✍️"
+  },
+  {
+    "dutch": "verzekeringen",
+    "english": "insurance policies",
+    "emoji": "🛡️"
+  },
+  {
+    "dutch": "haalt",
+    "english": "gets; fetches; picks up",
+    "emoji": "🛍️"
+  },
+  {
+    "dutch": "ontheffing",
+    "english": "exemption",
+    "emoji": "📜"
+  },
+  {
+    "dutch": "ernstige",
+    "english": "serious; severe",
+    "emoji": "❗"
+  },
+  {
+    "dutch": "bedreiging",
+    "english": "threat",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "afvalscheiding",
+    "english": "waste separation; waste sorting",
+    "emoji": "♻️"
+  },
+  {
+    "dutch": "milieuvervuiling",
+    "english": "environmental pollution",
+    "emoji": "🏭"
+  },
+  {
+    "dutch": "bespaart",
+    "english": "saves (money, energy, etc.)",
+    "emoji": "🐷"
+  },
+  {
+    "dutch": "grondstoffen",
+    "english": "raw materials",
+    "emoji": "🪵"
+  },
+  {
+    "dutch": "bodem",
+    "english": "soil; ground",
+    "emoji": "🌱"
+  },
+  {
+    "dutch": "hetzelfde",
+    "english": "the same",
+    "emoji": "🟰"
+  },
+  {
+    "dutch": "gebeurt",
+    "english": "happens",
+    "emoji": "💬"
+  },
+  {
+    "dutch": "verkeerde",
+    "english": "wrong; incorrect",
+    "emoji": "❌"
+  },
+  {
+    "dutch": "vacatures",
+    "english": "job vacancies",
+    "emoji": "📋"
+  },
+  {
+    "dutch": "uitzendbureau",
+    "english": "temporary employment agency",
+    "emoji": "🏢"
+  },
+  {
+    "dutch": "solliciteert",
+    "english": "applies for a job",
+    "emoji": "📄"
+  },
+  {
+    "dutch": "baan",
+    "english": "job",
+    "emoji": "💼"
+  },
+  {
+    "dutch": "tijdelijk",
+    "english": "temporary",
+    "emoji": "⏳"
+  },
+  {
+    "dutch": "bepaalde tijd",
+    "english": "fixed period; fixed term",
+    "emoji": "📅"
+  },
+  {
+    "dutch": "aansprakelijkheidsverzekering",
+    "english": "liability insurance",
+    "emoji": "🛡️"
+  },
+  {
+    "dutch": "inboedelverzekering",
+    "english": "home contents insurance",
+    "emoji": "🛋️"
+  },
+  {
+    "dutch": "veilig",
+    "english": "safe",
+    "emoji": "🦺"
+  },
+  {
+    "dutch": "zomaar",
+    "english": "just like that; for no particular reason",
+    "emoji": "💭"
+  },
+  {
+    "dutch": "huurwet",
+    "english": "tenancy law",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "huurverhoging",
+    "english": "rent increase",
+    "emoji": "📈"
+  },
+  {
+    "dutch": "juridisch",
+    "english": "legal",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "verlengen",
+    "english": "extend; renew",
+    "emoji": "📆"
+  },
+  {
+    "dutch": "vast",
+    "english": "fixed; permanent",
+    "emoji": "📌"
+  },
+  {
+    "dutch": "ontvangt",
+    "english": "receives",
+    "emoji": "📥"
+  },
+  {
+    "dutch": "verwijdert",
+    "english": "removes",
+    "emoji": "🗑️"
+  }
+]
