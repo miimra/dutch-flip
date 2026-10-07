@@ -423,5 +423,230 @@
     "dutch": "verwijdert",
     "english": "removes",
     "emoji": "🗑️"
+  },
+  {
+    "dutch": "beschikbaarheid",
+    "english": "availability",
+    "emoji": "📅"
+  },
+  {
+    "dutch": "deeltijd",
+    "english": "part-time",
+    "emoji": "🕒"
+  },
+  {
+    "dutch": "beroepenkaart",
+    "english": "occupation information card",
+    "emoji": "🗂️"
+  },
+  {
+    "dutch": "onmogelijk",
+    "english": "impossible",
+    "emoji": "🚫"
+  },
+  {
+    "dutch": "overleggen",
+    "english": "discuss; consult",
+    "emoji": "💬"
+  },
+  {
+    "dutch": "klantgesprekken",
+    "english": "conversations with clients",
+    "emoji": "🗣️"
+  },
+  {
+    "dutch": "voldoende",
+    "english": "enough; sufficient",
+    "emoji": "✅"
+  },
+  {
+    "dutch": "uitkering",
+    "english": "benefit payment",
+    "emoji": "💶"
+  },
+  {
+    "dutch": "onbepaalde tijd",
+    "english": "indefinite period",
+    "emoji": "♾️"
+  },
+  {
+    "dutch": "waarderen",
+    "english": "appreciate; value",
+    "emoji": "🙏"
+  },
+  {
+    "dutch": "waard",
+    "english": "worth",
+    "emoji": "💎"
+  },
+  {
+    "dutch": "arbeidsmarkt",
+    "english": "labour market",
+    "emoji": "💼"
+  },
+  {
+    "dutch": "opleiding",
+    "english": "education; training programme",
+    "emoji": "🎓"
+  },
+  {
+    "dutch": "lening",
+    "english": "loan",
+    "emoji": "🏦"
+  },
+  {
+    "dutch": "bijscholing",
+    "english": "additional training; skills updating",
+    "emoji": "📚"
+  },
+  {
+    "dutch": "nascholing",
+    "english": "continuing education; refresher training",
+    "emoji": "📖"
+  },
+  {
+    "dutch": "veelgevraagd",
+    "english": "in high demand",
+    "emoji": "📈"
+  },
+  {
+    "dutch": "werkervaring",
+    "english": "work experience",
+    "emoji": "🧰"
+  },
+  {
+    "dutch": "vaardigheden",
+    "english": "skills",
+    "emoji": "🛠️"
+  },
+  {
+    "dutch": "vrijwilligerswerk",
+    "english": "volunteer work",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "bewijzen",
+    "english": "prove",
+    "emoji": "🔎"
+  },
+  {
+    "dutch": "sollicitatieplicht",
+    "english": "obligation to apply for jobs",
+    "emoji": "📋"
+  },
+  {
+    "dutch": "sturen",
+    "english": "send",
+    "emoji": "📤"
+  },
+  {
+    "dutch": "WW-uitkering",
+    "english": "unemployment benefit",
+    "emoji": "💶"
+  },
+  {
+    "dutch": "verzekerd",
+    "english": "insured",
+    "emoji": "🛡️"
+  },
+  {
+    "dutch": "werkloosheid",
+    "english": "unemployment",
+    "emoji": "💼"
+  },
+  {
+    "dutch": "spaargeld",
+    "english": "savings",
+    "emoji": "🐷"
+  },
+  {
+    "dutch": "bijstand",
+    "english": "social assistance; welfare",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "verplichte",
+    "english": "mandatory; compulsory",
+    "emoji": "❗"
+  },
+  {
+    "dutch": "onderdeel",
+    "english": "part; component",
+    "emoji": "🧩"
+  },
+  {
+    "dutch": "sollicitatiegesprek",
+    "english": "job interview",
+    "emoji": "🗣️"
+  },
+  {
+    "dutch": "veelgestelde",
+    "english": "frequently asked (of questions)",
+    "emoji": "❓"
+  },
+  {
+    "dutch": "ervaring",
+    "english": "experience",
+    "emoji": "🌟"
+  },
+  {
+    "dutch": "verwacht",
+    "english": "expects; expected",
+    "emoji": "🔮"
+  },
+  {
+    "dutch": "verantwoordelijkheid",
+    "english": "responsibility",
+    "emoji": "📌"
+  },
+  {
+    "dutch": "eigen",
+    "english": "own",
+    "emoji": "🏠"
+  },
+  {
+    "dutch": "vangnet",
+    "english": "safety net",
+    "emoji": "🥅"
+  },
+  {
+    "dutch": "levensonderhoud",
+    "english": "living expenses; livelihood",
+    "emoji": "🛒"
+  },
+  {
+    "dutch": "veranderingen",
+    "english": "changes",
+    "emoji": "🔄"
+  },
+  {
+    "dutch": "meldt",
+    "english": "reports; notifies",
+    "emoji": "📣"
+  },
+  {
+    "dutch": "zelfstandig",
+    "english": "independent; independently",
+    "emoji": "🚶"
+  },
+  {
+    "dutch": "verantwoordelijkheden",
+    "english": "responsibilities",
+    "emoji": "📋"
+  },
+  {
+    "dutch": "betrouwbaarheid",
+    "english": "reliability; trustworthiness",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "arbeidscontract",
+    "english": "employment contract",
+    "emoji": "📄"
+  },
+  {
+    "dutch": "verlofregels",
+    "english": "leave rules; leave policy",
+    "emoji": "🏖️"
   }
 ]
