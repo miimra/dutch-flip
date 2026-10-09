@@ -648,5 +648,355 @@
     "dutch": "verlofregels",
     "english": "leave rules; leave policy",
     "emoji": "🏖️"
+  },
+  {
+    "dutch": "omgaan met",
+    "english": "deal with; interact with",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "houding",
+    "english": "attitude; posture",
+    "emoji": "🧍"
+  },
+  {
+    "dutch": "begroeten",
+    "english": "greet",
+    "emoji": "👋"
+  },
+  {
+    "dutch": "overleden",
+    "english": "deceased; passed away",
+    "emoji": "🕯️"
+  },
+  {
+    "dutch": "gecondoleerd",
+    "english": "my condolences",
+    "emoji": "💐"
+  },
+  {
+    "dutch": "zoenen",
+    "english": "kiss",
+    "emoji": "😘"
+  },
+  {
+    "dutch": "tevoren",
+    "english": "beforehand",
+    "emoji": "⏰"
+  },
+  {
+    "dutch": "vervelend",
+    "english": "annoying; unpleasant",
+    "emoji": "😒"
+  },
+  {
+    "dutch": "voordringt",
+    "english": "pushes in; jumps the queue",
+    "emoji": "🚶"
+  },
+  {
+    "dutch": "scherm",
+    "english": "screen",
+    "emoji": "🖥️"
+  },
+  {
+    "dutch": "openbaar vervoer",
+    "english": "public transport",
+    "emoji": "🚆"
+  },
+  {
+    "dutch": "vervoersbewijs",
+    "english": "travel ticket",
+    "emoji": "🎫"
+  },
+  {
+    "dutch": "trouwen",
+    "english": "get married",
+    "emoji": "💍"
+  },
+  {
+    "dutch": "niks",
+    "english": "nothing",
+    "emoji": "⭕"
+  },
+  {
+    "dutch": "beurt",
+    "english": "turn",
+    "emoji": "🔄"
+  },
+  {
+    "dutch": "betekent",
+    "english": "means; signifies",
+    "emoji": "💬"
+  },
+  {
+    "dutch": "bedoelt",
+    "english": "means; intends",
+    "emoji": "💭"
+  },
+  {
+    "dutch": "waarden",
+    "english": "values",
+    "emoji": "🧭"
+  },
+  {
+    "dutch": "geloven",
+    "english": "believe",
+    "emoji": "🙏"
+  },
+  {
+    "dutch": "godsdienst",
+    "english": "religion",
+    "emoji": "🛐"
+  },
+  {
+    "dutch": "geweld",
+    "english": "violence",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "gelijk",
+    "english": "equal; the same",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "huishouden",
+    "english": "household",
+    "emoji": "🏠"
+  },
+  {
+    "dutch": "versiering",
+    "english": "decoration",
+    "emoji": "🎊"
+  },
+  {
+    "dutch": "Tweede Wereldoorlog",
+    "english": "Second World War",
+    "emoji": "🌍"
+  },
+  {
+    "dutch": "vuurwerk",
+    "english": "fireworks",
+    "emoji": "🎆"
+  },
+  {
+    "dutch": "trakteren",
+    "english": "treat (someone to something)",
+    "emoji": "🍰"
+  },
+  {
+    "dutch": "kraamvisite",
+    "english": "visit to a newborn baby and parents",
+    "emoji": "👶"
+  },
+  {
+    "dutch": "bruiloft",
+    "english": "wedding celebration",
+    "emoji": "💒"
+  },
+  {
+    "dutch": "huwelijksreis",
+    "english": "honeymoon",
+    "emoji": "🏝️"
+  },
+  {
+    "dutch": "geslaagd",
+    "english": "passed (an exam); successful",
+    "emoji": "🎓"
+  },
+  {
+    "dutch": "uitvaart",
+    "english": "funeral",
+    "emoji": "🕯️"
+  },
+  {
+    "dutch": "bevrijding",
+    "english": "liberation",
+    "emoji": "🕊️"
+  },
+  {
+    "dutch": "begrafenis",
+    "english": "burial; funeral",
+    "emoji": "⚰️"
+  },
+  {
+    "dutch": "vertrouwen",
+    "english": "trust",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "boodschap",
+    "english": "message; errand",
+    "emoji": "✉️"
+  },
+  {
+    "dutch": "uitleggen",
+    "english": "explain",
+    "emoji": "💬"
+  },
+  {
+    "dutch": "afzeggen",
+    "english": "cancel",
+    "emoji": "❌"
+  },
+  {
+    "dutch": "getrouwd",
+    "english": "married",
+    "emoji": "💍"
+  },
+  {
+    "dutch": "erfenis",
+    "english": "inheritance",
+    "emoji": "📜"
+  },
+  {
+    "dutch": "gezag",
+    "english": "authority; parental authority",
+    "emoji": "⚖️"
+  },
+  {
+    "dutch": "geslacht",
+    "english": "sex; gender",
+    "emoji": "🧑"
+  },
+  {
+    "dutch": "huwelijk",
+    "english": "marriage",
+    "emoji": "💍"
+  },
+  {
+    "dutch": "delen",
+    "english": "share",
+    "emoji": "🤲"
+  },
+  {
+    "dutch": "volwassenen",
+    "english": "adults",
+    "emoji": "🧑"
+  },
+  {
+    "dutch": "blote",
+    "english": "bare; naked",
+    "emoji": "🦶"
+  },
+  {
+    "dutch": "verkrachting",
+    "english": "rape",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "gevangenis",
+    "english": "prison",
+    "emoji": "🔒"
+  },
+  {
+    "dutch": "vereniging",
+    "english": "association; club",
+    "emoji": "👥"
+  },
+  {
+    "dutch": "verbonden",
+    "english": "connected; linked",
+    "emoji": "🔗"
+  },
+  {
+    "dutch": "oefenen",
+    "english": "practise",
+    "emoji": "🎯"
+  },
+  {
+    "dutch": "gewoontes",
+    "english": "habits; customs",
+    "emoji": "🔁"
+  },
+  {
+    "dutch": "kansen",
+    "english": "chances; opportunities",
+    "emoji": "🍀"
+  },
+  {
+    "dutch": "steun",
+    "english": "support",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "uitnodigen",
+    "english": "invite",
+    "emoji": "💌"
+  },
+  {
+    "dutch": "vieren",
+    "english": "celebrate",
+    "emoji": "🎉"
+  },
+  {
+    "dutch": "bestaat",
+    "english": "exists",
+    "emoji": "🌱"
+  },
+  {
+    "dutch": "snoep",
+    "english": "candy; sweets",
+    "emoji": "🍬"
+  },
+  {
+    "dutch": "stiltecoupé",
+    "english": "quiet carriage (on a train)",
+    "emoji": "🤫"
+  },
+  {
+    "dutch": "voorzichtig",
+    "english": "careful; cautiously",
+    "emoji": "⚠️"
+  },
+  {
+    "dutch": "hoogopgeleide",
+    "english": "highly educated (person)",
+    "emoji": "🎓"
+  },
+  {
+    "dutch": "fout",
+    "english": "wrong; mistake",
+    "emoji": "❌"
+  },
+  {
+    "dutch": "gedragen",
+    "english": "behave (in zich gedragen); carried; worn",
+    "emoji": "🧍"
+  },
+  {
+    "dutch": "twijfelt",
+    "english": "doubts; hesitates",
+    "emoji": "🤔"
+  },
+  {
+    "dutch": "mening",
+    "english": "opinion",
+    "emoji": "💭"
+  },
+  {
+    "dutch": "probeer",
+    "english": "try (I try; try!)",
+    "emoji": "🎯"
+  },
+  {
+    "dutch": "lossen",
+    "english": "unload",
+    "emoji": "📦"
+  },
+  {
+    "dutch": "rechtstreeks",
+    "english": "directly",
+    "emoji": "➡️"
+  },
+  {
+    "dutch": "onbeleefdheid",
+    "english": "rudeness; impoliteness",
+    "emoji": "😠"
+  },
+  {
+    "dutch": "beleefdheid",
+    "english": "politeness",
+    "emoji": "🎩"
   }
 ]
