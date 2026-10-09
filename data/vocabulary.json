@@ -998,5 +998,155 @@
     "dutch": "beleefdheid",
     "english": "politeness",
     "emoji": "🎩"
+  },
+  {
+    "dutch": "zwangerschap",
+    "english": "pregnancy",
+    "emoji": "🤰"
+  },
+  {
+    "dutch": "verloskundige",
+    "english": "midwife",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "dutch": "bevalling",
+    "english": "childbirth",
+    "emoji": "👶"
+  },
+  {
+    "dutch": "ontwikkeling",
+    "english": "development",
+    "emoji": "🌱"
+  },
+  {
+    "dutch": "kinderopvang",
+    "english": "childcare",
+    "emoji": "🧸"
+  },
+  {
+    "dutch": "kinderdagverblijf",
+    "english": "daycare centre; nursery",
+    "emoji": "🏡"
+  },
+  {
+    "dutch": "oppas",
+    "english": "babysitter",
+    "emoji": "🧸"
+  },
+  {
+    "dutch": "mogelijk",
+    "english": "possible",
+    "emoji": "💡"
+  },
+  {
+    "dutch": "toeslagen",
+    "english": "allowances; supplements; surcharges",
+    "emoji": "💶"
+  },
+  {
+    "dutch": "verandert",
+    "english": "changes",
+    "emoji": "🔄"
+  },
+  {
+    "dutch": "rekenen",
+    "english": "calculate; arithmetic",
+    "emoji": "🔢"
+  },
+  {
+    "dutch": "aardrijkskunde",
+    "english": "geography",
+    "emoji": "🌍"
+  },
+  {
+    "dutch": "geschiedenis",
+    "english": "history",
+    "emoji": "📜"
+  },
+  {
+    "dutch": "onderwijs",
+    "english": "education",
+    "emoji": "🏫"
+  },
+  {
+    "dutch": "toestemming",
+    "english": "permission",
+    "emoji": "✅"
+  },
+  {
+    "dutch": "toekomst",
+    "english": "future",
+    "emoji": "🔮"
+  },
+  {
+    "dutch": "kinderbijslag",
+    "english": "child benefit",
+    "emoji": "👨‍👩‍👧"
+  },
+  {
+    "dutch": "schriften",
+    "english": "notebooks; exercise books",
+    "emoji": "📓"
+  },
+  {
+    "dutch": "verdienen",
+    "english": "earn; deserve",
+    "emoji": "💰"
+  },
+  {
+    "dutch": "afwezigheid",
+    "english": "absence",
+    "emoji": "🚪"
+  },
+  {
+    "dutch": "geldige",
+    "english": "valid",
+    "emoji": "✅"
+  },
+  {
+    "dutch": "gedrag",
+    "english": "behaviour",
+    "emoji": "🧍"
+  },
+  {
+    "dutch": "ouderbetrokkenheid",
+    "english": "parental involvement",
+    "emoji": "👨‍👩‍👧"
+  },
+  {
+    "dutch": "niveaus",
+    "english": "levels",
+    "emoji": "📊"
+  },
+  {
+    "dutch": "kennismakingsgesprek",
+    "english": "introductory meeting",
+    "emoji": "🤝"
+  },
+  {
+    "dutch": "koorts",
+    "english": "fever",
+    "emoji": "🤒"
+  },
+  {
+    "dutch": "doorverwijzen",
+    "english": "refer (to another professional)",
+    "emoji": "➡️"
+  },
+  {
+    "dutch": "praktijkondersteuner",
+    "english": "GP practice support professional",
+    "emoji": "🩺"
+  },
+  {
+    "dutch": "drogist",
+    "english": "drugstore; drugstore retailer",
+    "emoji": "🧴"
+  },
+  {
+    "dutch": "beroepsgeheim",
+    "english": "professional confidentiality",
+    "emoji": "🔐"
   }
 ]
